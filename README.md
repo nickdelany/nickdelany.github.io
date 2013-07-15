@@ -1,2 +1,0 @@
-nickdelany.github.io
-====================
